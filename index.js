@@ -1,7 +1,7 @@
 import express from "express";
 import { MongoClient } from "mongodb";
-import cors from "cors";
 import  * as dotenv from "dotenv";
+import cors from "cors";
 dotenv.config();
 
 const app = express();
@@ -22,11 +22,11 @@ const client = await createConnection();
 
 app.use(express.json());
 
-app.get("/", (req,res) => {
+app.get("/", (req, res) => {
     res.send("Hello World");
 });
 
-app.get("/products", async (req,res) => {
+app.get("/products", async (req, res) => {
     const product = await client
     .db("product_app")
     .collection("products")
