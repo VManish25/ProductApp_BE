@@ -1,0 +1,83 @@
+[
+    {
+      "createdAt": "2023-04-04T03:04:36.204Z",
+      "name": "Glass Trans",
+      "description": "Glass is transparant",
+      "price": 11,
+      "unitsAvailable": 20,
+      "productImage": "https://images.unsplash.com/photo-1514651029128-173d2e6ea851?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z2xhc3N8ZW58MHx8MHx8&w=1000&q=80",
+      "id": "1"
+    },
+    {
+      "createdAt": "2023-04-03T23:54:45.141Z",
+      "name": "Oriental Granite Car",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "883.00",
+      "unitsAvailable": 6,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "2"
+    },
+    {
+      "createdAt": "2023-04-03T06:22:04.363Z",
+      "name": "Recycled Concrete Ball",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "533.00",
+      "unitsAvailable": 15,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "3"
+    },
+    {
+      "createdAt": "2023-04-04T03:48:23.413Z",
+      "name": "Generic Cotton Bike",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "276.00",
+      "unitsAvailable": 34,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "4"
+    },
+    {
+      "createdAt": "2023-04-03T21:13:34.781Z",
+      "name": "Unbranded Concrete Salad",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "940.00",
+      "unitsAvailable": 19,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "5"
+    },
+    {
+      "createdAt": "2023-04-03T11:23:05.099Z",
+      "name": "Electronic Cotton Sausages",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "137.00",
+      "unitsAvailable": 2,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "6"
+    },
+    {
+      "createdAt": "2023-04-03T17:46:22.289Z",
+      "name": "Recycled Concrete Car",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "536.00",
+      "unitsAvailable": 23,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "7"
+    },
+    {
+      "createdAt": "2023-04-03T13:54:19.653Z",
+      "name": "Rustic Metal Gloves",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "price": "471.00",
+      "unitsAvailable": 7,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "8"
+    },
+    {
+      "createdAt": "2023-04-03T14:41:02.813Z",
+      "name": "Oriental Plastic Pizza",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "298.00",
+      "unitsAvailable": 19,
+      "productImage": "https://loremflickr.com/640/480/food",
+      "id": "9"
+    }
+  ]
